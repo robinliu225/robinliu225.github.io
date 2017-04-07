@@ -1,3 +1,5 @@
+[test](/docs/APP邀请店员和接受邀请.md)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/robinliu225/robinliu225.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
